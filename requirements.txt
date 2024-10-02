@@ -1,0 +1,5 @@
+pandas==2.2.2
+numpy==1.26.4
+anthropic==0.28.0
+openai==1.34.0
+scikit-learn==1.5.0
